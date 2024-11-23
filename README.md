@@ -10,7 +10,7 @@
 - Data Gathering, Results Analysis
 
 ## 🔧 Software Skills
-- Pytho
+- Python
 - Energy Modeling Platforms (PyPSA, OSeMOSYS, Calliope, Hypatia,...)
 - QGIS
 - MATLAB
