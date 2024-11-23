@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there! 👋 I'm Kian Jafarinejad
+🌍 **Based in:** Milan | 🇮🇷 **From:** Iran  
+🎓 **Master's:** Energy Engineering, Politecnico di Milano  
+⚡️ **Passions:** Energy Transition, Data Science & Optimization  
 
-<!--
-**Kianjn/Kianjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💼 Skills
+- Energy Planning & Modelling
+- Programming, Data Science, Machine Learning, Optimization Methods
+- GIS-based Analysis
+- Data Gathering, Results Analysis
 
-Here are some ideas to get you started:
+## 🔧 Software Skills
+- Pytho
+- Energy Modeling Platforms (PyPSA, OSeMOSYS, Calliope, Hypatia,...)
+- QGIS
+- MATLAB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Languages
+- Farsi (Native)
+- English (C2)
+- German (B1)
+- Italian (A2)
+- Dutch (A2)
+
+## 🚀 Projects
+
+
+## 📫 How to Reach Me
+- [Email](mailto:kianjafarinezhad@gmail.com)
+- [LinkedIn](https://linkedin.com/in/kianjn4)
